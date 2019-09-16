@@ -1,0 +1,12 @@
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\obj\Debug\KProje.BLL.csprojResolveAssemblyReference.cache
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\KProje.BLL.dll.config
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\KProje.BLL.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\KProje.BLL.pdb
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\EntityFramework.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\KProje.DAL.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\KProje.DAL.pdb
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\EntityFramework.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\obj\Debug\KProje.BLL.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.BLL\obj\Debug\KProje.BLL.pdb

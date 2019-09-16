@@ -1,0 +1,10 @@
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\bin\Debug\KProje.DAL.dll.config
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\bin\Debug\KProje.DAL.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\bin\Debug\KProje.DAL.pdb
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\bin\Debug\EntityFramework.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\bin\Debug\EntityFramework.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\obj\Debug\KProje.DAL.csprojResolveAssemblyReference.cache
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\obj\Debug\KProje.DAL.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\KProje\KProje.DAL\obj\Debug\KProje.DAL.pdb
